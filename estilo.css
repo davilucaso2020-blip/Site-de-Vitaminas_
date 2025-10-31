@@ -1,0 +1,26 @@
+.Batata{
+    text-align: center ; background-color: #21022d ; color: white ;
+    padding: 4px ;
+}
+    .arroz{
+    background-color: #e2d8e7 ; color: #21022d;
+    margin: 24px ;
+    }
+    h2{
+        margin: 16px;
+    }
+    .beterraba{
+        margin: 64px;
+    }
+    .trigo{
+        width: 150px; height: 150px;
+    }
+    #cenoura{
+        text-align: center; 
+        margin: 32px;
+    }
+    #ovo {
+        text-align: center; 
+        width: 600px; 
+        height: 300px;
+    }
